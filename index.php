@@ -4,9 +4,9 @@
 		purely made to test/learn Git
 		Kristian Virtanen, 06.02.2017
 		
-		This is the first one.
+		This is the second one.
 	*/
 	
-	echo 'Hello Git!';
+	echo 'Hello Git Again!';
 ?>
 	
